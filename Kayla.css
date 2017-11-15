@@ -1,0 +1,64 @@
+body {
+    font-size: 22px;
+    background: palevioletred
+}
+
+h1 {
+    font-size: 30px;
+    Color: pink;
+}
+
+#love {
+    Font-family: "verdana";
+    font-size: 20px;
+    color: hotpink ;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(233, 143, 159)
+}
+
+img {
+    float: bottom;
+}
+
+ul {
+    color: rgb(134, 84, 93);
+}
+
+h4 {
+    font-size: 30px;
+}
+
+#us1 {
+    width: 50%;
+    float: left;
+}
+#us2 {
+    width: 50%;
+    float: left;
+}
+
+a {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h5 {
+    font-size: 35px;
+    text-align: center;
+}
+
+#love2 {
+    color: pink;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
